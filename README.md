@@ -61,7 +61,7 @@ I'm especially interested in application development, problem-solving, and conti
 
 
 
-## 📖 **Lenguage**
+## 📖 **Lenguages**
 - Spanish: Native
 - English: A2
 
