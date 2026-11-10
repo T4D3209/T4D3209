@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><b>Hola , Soy Tadeo Céspedes</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello , I am Tadeo Céspedes</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,18 +12,18 @@
 <!--Sobre mi-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-¡Hola! Soy estudiante de programación, apasionado por la tecnología y el desarrollo de software.
+Hello! I'm a programming student with a passion for technology and software development.
 
-Actualmente me encuentro formándome y desarrollando proyectos que me permiten llevar la teoría a la práctica, explorar nuevas herramientas y fortalecer mis habilidades como desarrollador.
+I'm currently learning and working on projects that help me put theory into practice, explore new tools, and improve my development skills.
 
-Me interesa especialmente el desarrollo de aplicaciones, la resolución de problemas y el aprendizaje continuo. Disfruto trabajar en equipo, enfrentar nuevos desafíos y encontrar soluciones a través del código.
+I'm especially interested in application development, problem-solving, and continuous learning. I enjoy working in teams, facing new challenges, and finding solutions through code.
 
-🚀 Siempre aprendiendo, creando y buscando nuevos desafíos.
+🚀 Always learning, creating, and looking for new challenges.
 
-Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrollador capaz de transformar ideas en soluciones reales.
+**My goal:** To grow professionally in the IT field and become a developer who can turn ideas into real solutions.
 
 
-## 🛠️ Mis Habilidades
+## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 [![My Skills](https://skillicons.dev/icons?i=js,dotnet,ts,cpp,)](https://skillicons.dev)
@@ -50,7 +50,7 @@ Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrol
 
 
 
-### :calling: **Redes y Contacto**
+### :calling: **Networks and contact**
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tadeoces/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tadeecesp26/)
