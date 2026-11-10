@@ -57,7 +57,9 @@ I'm especially interested in application development, problem-solving, and conti
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/?view=cm&fs=1&to=tadeo.cespede@gmail.com")
 
 
-
+## 📖 **Lenguage**
+- Spanish: Native
+- English: A2
 
 
 
