@@ -30,11 +30,11 @@ Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrol
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,)](https://skillicons.dev)
 
 ⚙️** Backend **
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Bases
 
@@ -50,11 +50,6 @@ Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrol
 
 :calling: **Redes y Contacto**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,gmail" />
-  </a>
-</p>
 
 
 
