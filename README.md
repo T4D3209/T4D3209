@@ -54,7 +54,7 @@ Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrol
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tadeoces/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tadeecesp26/)
-[![My Skills](https://skillicons.dev/icons?i=gmail=light)](https://mail.google.com/mail/?view=cm&fs=1&to=tadeo.cespede@gmail.com")
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://mail.google.com/mail/?view=cm&fs=1&to=tadeo.cespede@gmail.com")
 
 
 
