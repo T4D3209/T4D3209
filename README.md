@@ -23,50 +23,63 @@ Me interesa especialmente el desarrollo de aplicaciones, la resolución de probl
 Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrollador capaz de transformar ideas en soluciones reales.
 
 
+## 🛠️ Mis Habilidades
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+[![My Skills](https://skillicons.dev/icons?i=js,dotnet,ts,cpp,)](https://skillicons.dev)
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vite,)](https://skillicons.dev)
 
+⚙️** Backend **
 
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,)](https://skillicons.dev)
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Bases
 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,)](https://skillicons.dev)
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=github,git,npm,)](https://skillicons.dev)
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,)](https://skillicons.dev)
 
+:calling: **Redes y Contacto**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,gmail" />
+  </a>
+</p>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
 
-<td width="40%" align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
