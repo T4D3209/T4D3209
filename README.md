@@ -12,5 +12,65 @@
 <!--Sobre mi-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+¡Hola! Soy estudiante de programación, apasionado por la tecnología y el desarrollo de software.
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+Actualmente me encuentro formándome y desarrollando proyectos que me permiten llevar la teoría a la práctica, explorar nuevas herramientas y fortalecer mis habilidades como desarrollador.
+
+Me interesa especialmente el desarrollo de aplicaciones, la resolución de problemas y el aprendizaje continuo. Disfruto trabajar en equipo, enfrentar nuevos desafíos y encontrar soluciones a través del código.
+
+🚀 Siempre aprendiendo, creando y buscando nuevos desafíos.
+
+Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrollador capaz de transformar ideas en soluciones reales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
