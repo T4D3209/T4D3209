@@ -32,7 +32,7 @@ Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrol
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,)](https://skillicons.dev)
 
-⚙️** Backend **
+### ⚙️ **Backend**
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,)](https://skillicons.dev)
 
@@ -48,7 +48,7 @@ Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrol
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,)](https://skillicons.dev)
 
-:calling: **Redes y Contacto**
+### :calling: **Redes y Contacto**
 
 
 
