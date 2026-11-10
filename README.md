@@ -48,8 +48,15 @@ Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrol
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,)](https://skillicons.dev)
 
+
+
 ### :calling: **Redes y Contacto**
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,gmail" />
+  </a>
+</p>
 
 
 
@@ -68,17 +75,3 @@ Mi objetivo: crecer profesionalmente en el mundo IT y convertirme en un desarrol
 
 
 
-
-
-
-
-
-
-
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
